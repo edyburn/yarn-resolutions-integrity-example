@@ -1,0 +1,13 @@
+{
+  "name": "yarn-resolutions-integrity-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "resolutions": {
+    "moment": "2.12.0"
+  },
+  "dependencies": {
+    "moment-timezone": "0.5.1"
+  }
+}
